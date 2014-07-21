@@ -17,11 +17,12 @@ Components included
 #### Web Hosted Font and Icon 
 * Font-Awesome 4.1.0
 
-#### Custom Scripts [Localy Hosted]
+#### Custom Scripts [Hosted In Project]
 * Sticky Header
 * Sticky Footer
-* Scrollto
+* Scroll to
 * Swipe
+* Google Analytics
 
 Instructions
 ============
