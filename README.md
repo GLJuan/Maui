@@ -1,8 +1,11 @@
 Maui
 ============
 
-Maui is a fully responsive web development environment based on Twitter Bootstrap 3 / (http://en.wikipedia.org/wiki/XHTML) websites.
+So much more than just a framework or grid system Maui is a all encompassing development solution with a complete set of tools to take your project from conception to completion and beyond. 
 
+Built using HTML5, CSS3, Bootstrap 3 and many more of today’s most popular and documented development systems, Maui is a complete desktop to mobile development system.
+
+Components included:
 * Twitter Bootstrap 3
 * JQuery 2.1.1
 * Mustache JS 0.8.1
