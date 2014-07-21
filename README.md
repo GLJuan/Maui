@@ -1,7 +1,12 @@
-Bacon
+Maui
 ============
 
-Bacon is a fully responsive web development environment based on [HTML5]&[XHTML](http://en.wikipedia.org/wiki/XHTML) websites.
+Maui is a fully responsive web development environment based on Twitter Bootstrap 3 / (http://en.wikipedia.org/wiki/XHTML) websites.
+
+* Twitter Bootstrap 3
+* JQuery 2.1.1
+* Mustache JS 0.8.1
+* Font-Awesome 4.1.0
 
 
 Instructions
