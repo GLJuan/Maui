@@ -5,12 +5,20 @@ So much more than just a framework or grid system Maui is a all encompassing dev
 
 Built using HTML5, CSS3, Bootstrap 3 and many more of today’s most popular and documented development systems, Maui is a complete desktop to mobile development system.
 
-Components included:
+Components included
+============
+#### Framework
 * Twitter Bootstrap 3
+#### JavaScript Libraries
 * JQuery 2.1.1
 * Mustache JS 0.8.1
+#### Web Hosted Font and Icon 
 * Font-Awesome 4.1.0
-
+#### Custom Scripts [Localy Hosted]
+* Sticky Header
+* Sticky Footer
+* Scrollto
+* Swipe
 
 Instructions
 ============
