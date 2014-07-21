@@ -9,11 +9,14 @@ Components included
 ============
 #### Framework
 * Twitter Bootstrap 3
+
 #### JavaScript Libraries
 * JQuery 2.1.1
 * Mustache JS 0.8.1
+
 #### Web Hosted Font and Icon 
 * Font-Awesome 4.1.0
+
 #### Custom Scripts [Localy Hosted]
 * Sticky Header
 * Sticky Footer
