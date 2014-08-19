@@ -1,28 +1,8 @@
-Maui
+Bacon
 ============
 
-So much more than just a framework or grid system Maui is a all encompassing development solution with a complete set of tools to take your project from conception to completion and beyond. 
+Bacon is a fully responsive web development environment based on [HTML5]&[XHTML](http://en.wikipedia.org/wiki/XHTML) websites.
 
-Built using HTML5, CSS3, Bootstrap 3 and many more of today’s most popular and documented development systems, Maui is a complete desktop to mobile development system.
-
-Components included
-============
-#### Framework
-* Twitter Bootstrap 3
-
-#### JavaScript Libraries
-* JQuery 2.1.1
-* Mustache JS 0.8.1
-
-#### Web Hosted Font and Icon 
-* Font-Awesome 4.1.0
-
-#### Custom Scripts [Hosted In Project]
-* Sticky Header
-* Sticky Footer
-* Scroll to
-* Swipe
-* Google Analytics
 
 Instructions
 ============

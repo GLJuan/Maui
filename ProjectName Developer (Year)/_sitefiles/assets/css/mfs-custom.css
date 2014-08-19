@@ -1,0 +1,97 @@
+/*
+* Maui - The Ultimate Responsive Development Enviroment
+* www.mauiproject.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+*/
+
+
+/* Color Setters
+================================================== */
+.bg-red {
+	background: #E71230;
+}
+/* Standards
+================================================== */
+h3 {
+	border-bottom: solid 2px #E71230;
+	padding-bottom: 10px
+}
+/* Nav Styles
+================================================== */
+nav {
+	height: 50px;
+	padding: 16px 0;
+}
+nav ul {
+}
+nav ul li {
+	display: inline;
+	padding: 5px 20px;
+	margin: 20px 0;
+}
+nav ul li a {
+	color: #E71230;
+}
+nav ul li a:hover {
+	color: #000;
+}
+.sidenav {
+}
+.sidenav ul {
+	display: block;
+	list-style-type: none;
+	margin-top: 20px;
+	padding-left: 0;
+}
+.sidenav ul li{
+	display: block;
+	list-style-type: none;
+	padding-left: 0;
+
+}
+.sidenav ul li a {
+	display: block;
+	padding: 3px 22px;
+	color: #E71230;
+}
+.sidenav ul li a:hover{
+	display: block;
+	border-left: 5px solid #E71230;
+	padding-left: 17px;
+	text-decoration: none;
+	color: #000;
+}
+/* Header ====== */
+header {
+}
+/* Content ====== */
+.selecttext {
+	background: #CCC;
+	border: solid 1px #666;
+	padding: 20px;
+}
+.whatsnew ul {
+	padding: 0 10px 10px;
+}
+.whatsnew ul li {
+	background: #918E8F;
+	/*border: solid 1px #E71230;*/
+	color: #fff;
+	list-style-type: none;
+	padding: 10px;
+}
+/* Aside ====== */
+/* Footer ====== */
+/* Form ====== */
+.text-form {
+	margin: 4px 0 0;
+	width: 100%;
+}
+.textarea-form {
+	margin: 4px 0 0;
+	width: 100%;
+}
+
+/* #Page Styles
+================================================== */
