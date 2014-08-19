@@ -1,7 +1,7 @@
-Bacon
+Maui Web Project
 ============
 
-Bacon is a fully responsive web development environment based on [HTML5]&[XHTML](http://en.wikipedia.org/wiki/XHTML) websites.
+Maui
 
 
 Instructions
