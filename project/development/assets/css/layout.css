@@ -1,0 +1,82 @@
+/*
+* Maui - The Ultimate Responsive Development Enviroment
+* www.mauiproject.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+*/
+
+/* Standards
+================================================== */
+
+/* Nav Styles
+================================================== */
+nav {
+	height: 50px;
+	padding: 16px 0;
+}
+nav ul {
+}
+nav ul li {
+	display: inline;
+	padding: 5px 20px;
+	margin: 20px 0;
+}
+nav ul li a {
+	color: #E71230;
+}
+nav ul li a:hover {
+	color: #000;
+}
+.sidenav {
+}
+.sidenav ul {
+	display: block;
+	list-style-type: none;
+	margin-top: 20px;
+	padding-left: 0;
+}
+.sidenav ul li{
+	display: block;
+	list-style-type: none;
+	padding-left: 0;
+
+}
+.sidenav ul li a {
+	display: block;
+	padding: 3px 22px;
+	color: #E71230;
+}
+.sidenav ul li a:hover{
+	display: block;
+	border-left: 5px solid #E71230;
+	padding-left: 17px;
+	text-decoration: none;
+	color: #000;
+}
+/* Header ====== */
+header {}
+/* Content ====== */
+
+/* Aside ====== */
+/* Footer ====== */
+footer {}
+/* Forms ====== */
+
+/* #Page Styles
+================================================== */
+
+
+/* #Media Queries
+================================================== */
+/* Large desktop */
+@media (min-width: 1200px) {
+}
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) {
+}
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+}
+/* Landscape phones and down */
+@media (max-width: 480px) {
+}
